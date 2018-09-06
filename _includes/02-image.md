@@ -1,1 +1,1 @@
-![Image of Bobby Shmurda] (http://www.rapbasement.com/wp-content/uploads/2016/09/Bobby-Shmurda-Gets-7-Years-In-Prison.jpg)
+![Image of Bobby Shmurda] (https://static.spin.com/files/2016/09/Screen-Shot-2016-09-09-at-2.02.49-PM-640x427.png)
