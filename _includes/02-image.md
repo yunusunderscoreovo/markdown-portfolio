@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+https://www.rap-up.com/app/uploads/2018/02/champagne-papi.jpg
