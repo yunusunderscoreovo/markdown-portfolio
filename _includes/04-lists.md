@@ -1,3 +1,3 @@
-Basketball :basketball:
-Food :apple:
-Volleyball :volleyball: 
+- Basketball :basketball:
+- Food :apple:
+- Volleyball :volleyball: 
