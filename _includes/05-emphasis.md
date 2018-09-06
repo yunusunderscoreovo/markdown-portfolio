@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- *Basketball* :basketball:
+- **Food** :apple:
+- _**Volleyball**_ :volleyball:
